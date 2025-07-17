@@ -26,7 +26,7 @@ A real-world exploratory data analysis (EDA) project using 911 emergency call da
 
 ## 🗃️ Dataset Details
 
-- 📁 Source: [Kaggle Link](https://www.kaggle.com/datasets/mchirico/montcoalert))*  
+- 📁 Source: [Kaggle Link](https://www.kaggle.com/datasets/mchirico/montcoalert)
 - 🔢 Size: ~50K records  
 - 📌 Columns: `lat`, `lng`, `title`, `timeStamp`, `twp`, `zip`, ...
 
